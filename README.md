@@ -25,7 +25,7 @@
         (Single Player Tarkov) community and explore AI-agent workflows.
       </p>
       <p>
-        一名通信专业的本科生，热爱编程与游戏 Mod 开发，为 <strong>SPT</strong>（离线版逃离塔科夫）社区构建实用工具，并探索 AI Agent 工作流。
+        一名通信专业的硕士在读研究生，热爱编程与游戏 Mod 开发，为 <strong>SPT</strong>（离线版逃离塔科夫）社区构建实用工具，并探索 AI Agent 工作流。
       </p>
       <ul>
         <li>🔧 Building <strong>MG-Mod</strong>, a graphical all-in-one SPT mod.</li>
