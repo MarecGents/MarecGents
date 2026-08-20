@@ -2,7 +2,7 @@
 
 # Hi, I'm MarecGents 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Undergraduate+%2F+Communication+Enthusiast;SPT+Game+Mod+Developer;AI+Agent+Skills+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Master%27s+Student+%2F+Communication+Enthusiast;SPT+Game+Mod+Developer;AI+Agent+Skills+Builder" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MarecGents&abbreviated=true&color=36BCF7&style=flat" alt="Profile views" />
@@ -20,7 +20,7 @@
     <td width="60%" valign="top">
       <h3>About Me · 关于我</h3>
       <p>
-        An undergraduate student passionate about communication, programming,
+        A master's student passionate about communication, programming,
         and game modding. I build practical tools for the <strong>SPT</strong>
         (Single Player Tarkov) community and explore AI-agent workflows.
       </p>
