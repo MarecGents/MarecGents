@@ -7,6 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=MarecGents&abbreviated=true&color=36BCF7&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/MarecGents?style=flat&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMarecGents&query=%24.public_repos&label=Public%20Repos&color=36BCF7&logo=github&logoColor=white" alt="Public repositories" />
   <img src="https://img.shields.io/badge/Focus-Game%20Mod%20%2F%20AI%20Agent%20%2F%20IEEE-2E3440?style=flat&logo=github&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Timezone-Asia%2FShanghai-36BCF7?style=flat&logo=clockify&logoColor=white" alt="Timezone" />
 </p>
@@ -49,28 +50,31 @@
 
 ## Projects · 项目
 
+> 公开仓库共 14 个，下方收录其中 12 个：`MarecGents` 为本主页仓库、`MGModSeries-TS` 为规划中的空骨架仓库，均不单独列出。
+> ★ 数与仓库信息截至 2026-10-07。
+
 ### 🎮 Game Modding
 
 | Project | Description |
 |---------|-------------|
-| [**MG-Mod**](https://github.com/MarecGents/MG-Mod) | 麻瓜编辑器整合发布仓库 — 面向 SPT 的图形化多功能 Mod，覆盖战局、经济、养成等系统。<br>*The official release repo for MG-Mod, a graphical all-in-one SPT mod.* |
+| [**MG-Mod**](https://github.com/MarecGents/MG-Mod) ★ 36 | 麻瓜编辑器整合发布仓库 — 面向 SPT 的图形化多功能 Mod，覆盖战局、经济、养成等系统。<br>*The official release repo for MG-Mod, a graphical all-in-one SPT mod.* |
+| [**MG-FleaMarket**](https://github.com/MarecGents/MG-FleaMarket) | 跳蚤市场实时同步工具，Python 自动同步 tarkov.dev 价格数据至云端。<br>*Real-time flea-market sync tool that auto-syncs tarkov.dev price data to the cloud.* |
 | [**MG-GT-Mod**](https://github.com/MarecGents/MG-GT-Mod) | 通用自定义商人框架官方发布渠道，通过 JSON 配置即可快速创建自定义商人，无需编写代码。<br>*A generic custom-trader framework driven by JSON config — no coding required.* |
 | [**MGModSeries-CSharp**](https://github.com/MarecGents/MGModSeries-CSharp) | MG 系列 C# 整合仓，统一管理服务端 Mod（MGModServer / MGGTMod）、WPF 配置编辑器与 BepInEx 游戏内编辑器。<br>*The MG series C# monorepo — server mods, WPF config editor & in-game editor client in one solution.* |
-| [**MG-FleaMarket**](https://github.com/MarecGents/MG-FleaMarket) | 跳蚤市场实时同步工具，Python 自动同步 tarkov.dev 价格数据至云端。<br>*Real-time flea-market sync tool that auto-syncs tarkov.dev price data to the cloud.* |
 
 ### 🤖 AI Agent
 
 | Project | Description |
 |---------|-------------|
-| [**marec-agent-skills**](https://github.com/MarecGents/marec-agent-skills) | 面向 AI 编程 Agent 的可复用技能集合，覆盖多智能体编排、工作流自动化与工具集成。<br>*A collection of reusable Agent Skills — multi-agent orchestration, workflow automation & tool integrations.* |
-| [**deepseek-harness-hub**](https://github.com/MarecGents/deepseek-harness-hub) | DeepSeek Harness 生态的 Windows 桌面插件项目。<br>*A Windows desktop plugin project for the DeepSeek Harness ecosystem.* |
+| [**marec-agent-skills**](https://github.com/MarecGents/marec-agent-skills) ★ 3 | 面向 AI 编程 Agent 的可复用技能集合，覆盖多智能体编排、工作流自动化与工具集成。<br>*A collection of reusable Agent Skills — multi-agent orchestration, workflow automation & tool integrations.* |
+| [**deepseek-harness-hub**](https://github.com/MarecGents/deepseek-harness-hub) ★ 3 | DeepSeek Harness 生态的 Windows 桌面插件项目。<br>*A Windows desktop plugin project for the DeepSeek Harness ecosystem.* |
 
 ### 📄 Academic
 
 | Project | Description |
 |---------|-------------|
-| [**ieee-trans-template**](https://github.com/MarecGents/ieee-trans-template) | 开箱即用的 IEEE 期刊论文 LaTeX 模板，预置 30+ 期刊缩写，支持 journal / conference 双模式。<br>*A ready-to-use IEEE LaTeX template with 30+ journal abbreviations, dual journal/conference modes.* |
-| [**ieee-mg-skills**](https://github.com/MarecGents/ieee-mg-skills) | IEEE 学术写作、润色与审核 Agent Skills，面向 B5G/6G NOMA RIS/STARS 通信研究。<br>*IEEE-compliant writing, polishing & reviewing skills for B5G/6G NOMA RIS/STARS research.* |
+| [**ieee-trans-template**](https://github.com/MarecGents/ieee-trans-template) ★ 9 | 开箱即用的 IEEE 期刊论文 LaTeX 模板：预置 30+ 期刊缩写与常用数学 / 表格 / 算法宏包，支持 journal / conference 双模式，覆盖通信、信号处理、计算机等工程领域。<br>*A ready-to-use IEEE LaTeX template with 30+ journal abbreviations, common math/table/algorithm packages and dual journal/conference modes.* |
+| [**ieee-mg-skills**](https://github.com/MarecGents/ieee-mg-skills) ★ 1 | IEEE 学术写作、润色与审核 Agent Skills，面向 B5G/6G NOMA RIS/STARS 通信研究。<br>*IEEE-compliant writing, polishing & reviewing skills for B5G/6G NOMA RIS/STARS research.* |
 
 ### 🛠️ Tools
 
@@ -84,9 +88,9 @@
 
 | Project | Description |
 |---------|-------------|
-| [**MG-Mod-CSharp**](https://github.com/MarecGents/MG-Mod-CSharp) | MG-Mod 服务端核心逻辑库（C# / .NET 10.0）。<br>*MG-Mod server core library (C# / .NET 10.0).* |
+| [**MG-Mod-CSharp**](https://github.com/MarecGents/MG-Mod-CSharp) | MG-Mod 服务端核心逻辑库（C# / .NET 10.0），提供战局、经济、养成、容器、特色功能五大系统。<br>*MG-Mod server core library (C# / .NET 10.0) covering five in-game systems.* |
 | [**MG-GT-Mod-CSharp**](https://github.com/MarecGents/MG-GT-Mod-CSharp) | MG 通用商人框架独立 C# 实现（.NET 9.0）。<br>*Standalone C# implementation of the generic trader framework (.NET 9.0).* |
-| [**MGModEditor**](https://github.com/MarecGents/MGModEditor) | MG-Mod 可视化配置编辑器（WPF / .NET 9.0）。<br>*WPF visual config editor for MG-Mod (.NET 9.0).* |
+| [**MGModEditor**](https://github.com/MarecGents/MGModEditor) ★ 1 | MG-Mod 可视化配置编辑器（WPF / .NET 9.0），内置 36 种主题配色，无需手动编辑 JSON。<br>*WPF visual config editor for MG-Mod (.NET 9.0) with 36 built-in themes — no hand-editing JSON.* |
 
 ---
 
